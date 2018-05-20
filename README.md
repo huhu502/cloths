@@ -36,3 +36,6 @@ Arguments:
     --train-steps <int> (default full training set)
     --save-filename <str> (required, filename to save model to)
     --create-submission (if supplied, create submission after training)
+    
+ ### install cv2
+    pip install opencv-python
