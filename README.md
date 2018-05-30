@@ -39,3 +39,5 @@ Arguments:
     
  ### install cv2
     pip install opencv-python
+ ### address
+ https://www.kaggle.com/c/imaterialist-challenge-fashion-2018
